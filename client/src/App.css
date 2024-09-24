@@ -1,0 +1,44 @@
+.App {
+  text-align: center;
+  padding: 20px;
+}
+
+textarea {
+  width: 80%;
+  height: 150px;
+  margin-bottom: 20px;
+  padding: 10px;
+  font-size: 16px;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+}
+
+.stats {
+  margin: 20px 0;
+  font-size: 18px;
+}
+
+.string-replacer input {
+  margin: 5px;
+  padding: 8px;
+  font-size: 16px;
+  width: 200px;
+}
+
+button {
+  padding: 10px 20px;
+  font-size: 16px;
+  background-color: #4CAF50;
+  color: white;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+button:hover {
+  background-color: #45a049;
+}
+.highlight {
+  background-color: yellow;
+  font-weight: bold;
+}
